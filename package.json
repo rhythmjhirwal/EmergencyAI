@@ -1,0 +1,15 @@
+{
+  "name": "emergencyai-response-system",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node express-backend/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}

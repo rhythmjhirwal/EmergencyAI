@@ -1,0 +1,4 @@
+networkx>=3.2,<4
+Flask>=3.0,<4
+osmnx>=2.0,<3
+shapely>=2.0,<3
